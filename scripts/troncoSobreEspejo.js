@@ -1,3 +1,8 @@
+//Si deseas correr este program: 
+//  - Copia todo este texto
+//  - Abre https://editor.p5js.org/
+//  - Pega el texto en el editor y presiona "Play" (>)
+
 const canvasX = 800;
 const canvasY = 500;
 
