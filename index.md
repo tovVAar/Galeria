@@ -1,6 +1,6 @@
 ## Mural
 
-  - [Tronco sobre espejo](./troncoSobreEspejo/index.md)
+  - [Tronco sobre espejo](./troncoSobreEspejo)
 
 ```
 El arte está secuestrado,
