@@ -3,8 +3,6 @@
 
 ## commit -m
 ```
-Mi primer obra al estar aprendiendo P5!
-
 Me había dado curiosidad el mundo de el arte digital desde hace tiempo,
 en Japón llegué a ver muchas propuestas ya bastante evolucionadas,
 en especial tras ir a un evento de live coding en Ciudad de México.
