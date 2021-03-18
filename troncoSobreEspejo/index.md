@@ -30,4 +30,6 @@ de seguro habrá otro menso como yo que no le entienda a los libros para artista
 
 ## v1
 ![v1](./img/v1.png)
-[Código fuente](https://github.com/tovVAar/p5Learning/tree/main/scripts)
+[Código fuente](https://github.com/tovVAar/p5Learning/blob/main/scripts/troncoSobreEspejo.js)
+
+### [Página principal](../index.md)

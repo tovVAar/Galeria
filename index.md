@@ -1,6 +1,7 @@
 ## Mural
 
   - [Tronco sobre espejo](./troncoSobreEspejo)
+  - [Privilegios](./privilegios)
 
 ```
 El arte está secuestrado,
