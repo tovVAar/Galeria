@@ -6,10 +6,11 @@ const maxX = 400;
 const maxY = 400;
 
 function setup() {
-  createCanvas(maxX, maxY);
-  noCursor();
-  rectMode(CENTER);
-  background(220);
+	createCanvas(maxX, maxY);
+	console.log(windowWidth, windowHeight);	
+	noCursor();
+	rectMode(CENTER);
+	background(220);
 }
 
 coinToss = () => {

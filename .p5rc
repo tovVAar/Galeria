@@ -1,0 +1,9 @@
+{
+  "name": "p5Learning",
+  "projects": [
+    "electron",
+    "privilegios",
+    "paletaDeColores",
+    "troncoSobreEspejo"
+  ]
+}
