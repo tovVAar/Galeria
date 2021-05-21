@@ -1,3 +1,5 @@
+// inspirado en https://www.youtube.com/watch?v=W2Xb2GFK2yc
+
 function setup() {
 	createCanvas(windowWidth, windowHeight);
 }
