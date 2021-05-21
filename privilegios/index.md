@@ -21,6 +21,6 @@ estos weyes si han tenido lo que llamaría 'privilegio'.
 
 ## v1
 ![v1](./img/v1.png)
-[Código fuente](https://github.com/tovVAar/p5Learning/blob/main/scripts/privilegios.js)
+[Código fuente](https://github.com/tovVAar/Galeria/blob/main/privilegios/sketch.js)
 
 ### [Página principal](../index.md)
